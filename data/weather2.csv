@@ -1,0 +1,16 @@
+outlook  , $temp , $humidity , windy , =play
+overcast , 64   , 65       , TRUE  , yes 
+rainy    , 65   , 70       , TRUE  , yes
+rainy    , 68   , 80       , FALSE , yes 
+sunny    , 69   , 70       , FALSE , yes 
+rainy    , 70   , 96       , FALSE , yes 
+rainy    , 71   , 91       , TRUE  , yes 
+overcast , 72   , 90       , TRUE  , yes 
+sunny    , 72   , 95       , FALSE , no 
+rainy    , 75   , 80       , FALSE , no 
+sunny    , 75   , 70       , TRUE  , yes 
+sunny    , 80   , 90       , TRUE  ,  no 
+overcast , 81   , 75       , FALSE , no 
+overcast , 83   , 86       , FALSE , no 
+sunny    , 85   , 85       , FALSE ,  no
+

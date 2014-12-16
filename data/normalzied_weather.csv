@@ -1,0 +1,15 @@
+outlook     $temp     $humidity     windy     =play
+overcast     0.0     0.0     TRUE     yes
+overcast     0.380952199547     0.806451352758     TRUE     yes
+overcast     0.809523424036     0.322580541103     FALSE     yes
+overcast     0.904761473923     0.677419136316     FALSE     yes
+rainy     0.0476190249433     0.161290270552     TRUE     no
+rainy     0.333333174603     0.838709406868     TRUE     no
+rainy     0.190476099773     0.483870811655     FALSE     yes
+rainy     0.28571414966     0.999999677419     FALSE     yes
+rainy     0.523809274377     0.483870811655     FALSE     yes
+sunny     0.238095124717     0.161290270552     FALSE     yes
+sunny     0.380952199547     0.967741623309     FALSE     no
+sunny     0.523809274377     0.161290270552     TRUE     yes
+sunny     0.761904399093     0.806451352758     TRUE     no
+sunny     0.99999952381     0.645161082206     FALSE     no

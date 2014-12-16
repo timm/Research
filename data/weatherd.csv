@@ -1,0 +1,15 @@
+outlook  , ?temp , humidity , ?windy , <play 
+overcast , lo   , lo       , TRUE   , yes 
+rainy    , lo   , lo       , TRUE   ,  no 
+rainy    , lo   , hi       , FALSE  , yes 
+sunny    , lo   , lo       , FALSE  , yes 
+rainy    , lo   , hi       , FALSE  , yes 
+rainy    , hi   , hi       , TRUE   ,  no 
+overcast , hi   , hi       , TRUE   , yes 
+sunny    , hi   , hi       , FALSE  ,  no 
+rainy    , hi   , hi       , FALSE  , yes 
+sunny    , hi   , lo       , TRUE   , yes 
+sunny    , hi   , hi       , TRUE   ,  no 
+overcast , hi   , lo       , FALSE  , yes 
+overcast , hi   , hi       , FALSE  , yes 
+sunny    , hi   , hi       , FALSE  ,  no
