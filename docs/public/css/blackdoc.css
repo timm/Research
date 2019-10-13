@@ -137,7 +137,7 @@ tbody tr:nth-child(odd) th {
 
 @media (min-width: 48em) {
   html {
-    font-size: 12px;
+    font-size: 14px;
   }
 }
 @media (min-width: 58em) {
