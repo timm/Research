@@ -64,3 +64,8 @@
 .highlight .vi { color: #aa0000 } /* Name.Variable.Instance */
 .highlight .vm { color: #aa0000 } /* Name.Variable.Magic */
 .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+
+
+.css .o,
+.css .o + .nt,
+.css .nt + .nt { color: #999; }
